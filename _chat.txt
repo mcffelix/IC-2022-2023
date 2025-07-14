@@ -1,0 +1,182 @@
+[10.01.23 13:12:45] Robson Bauwelz Gonzatti: ‎As mensagens e as chamadas são protegidas com a criptografia de ponta a ponta e ficam somente entre você e os participantes desta conversa. Nem mesmo o WhatsApp pode ler ou ouvi-las.
+[10.01.23 13:12:45] Maria Clara: Olá professor. Irei no lab amanhã
+[10.01.23 13:19:19] Robson Bauwelz Gonzatti: Boa tarde. Beleza, que horas? Posso dar uma passada lá de manhã.
+[10.01.23 13:20:13] Maria Clara: Pode ser umas 10h30?
+[10.01.23 13:28:41] Robson Bauwelz Gonzatti: Pode sim. Combinado
+[11.01.23 10:53:54] Robson Bauwelz Gonzatti: https://drive.google.com/drive/folders/1_aaViEEpIP6ARWBJpgOned9pffOgXLjT?usp=sharing
+[11.01.23 10:54:51] Robson Bauwelz Gonzatti: https://www.overleaf.com/latex/templates/template-unifei/fcrwrgzvhgmx
+‎[11.01.23 10:55:54] Robson Bauwelz Gonzatti: Filtro Ativo - OFICIAL.pdf • ‎59 páginas ‎<anexado: 00000008-Filtro Ativo - OFICIAL.pdf>
+‎[11.01.23 12:02:38] Maria Clara: Projeto.pdf • ‎8 páginas ‎<anexado: 00000009-Projeto.pdf>
+[11.01.23 15:04:43] Robson Bauwelz Gonzatti: Passados mais de dois anos - pode até ser que o snickerdoodle tenha melhorado a documentação deles. É bom dar uma fuçada no Google... Há dois anos atrás, era bem ruim...
+As coisas que tenho aqui, do snickerdoodle, acho que vão mais confundir do que ajudar:
+-CraftDrones.zip: tem documentação do snickerdoodle...
+-Vivado.zip: tem documentação de como usar o Vivado (o ambiente de programação) - mas usa outras placas (precisa adaptar)
+
+Esses acima foram as coisas que eu usei na época. 
+
+Muito depois disso, eu comprei uma outra placa (que eu nunca cheguei a usar - pq já estava fazendo outras coisas), que tb tem um Zynq (mas é outro fabricante). Pra essa outra placa, eu pedi pro vendedor um tutorial. Eu não cheguei a testar esse tutorial - mas deve dar menos dor de cabeça do que a documentação acima do snickerdoodle.
+Inclusive, ela pode usar essa minha plaquinha. A ideia é primeiro ela aprender o básico na plaquinha. Daí, tenta transferir pro snickerdoodle.
+[11.01.23 15:04:43] Robson Bauwelz Gonzatti: tem tb o artigo do Bruno Gama, que usa outra placa (StemLab) - mas deve dar uma noção de como usar o Vivado (e fazer piscar um LED): https://www.researchgate.net/publication/349147426_FPGA_Prototyping_Using_the_STEMlab_Board_With_Application_on_Frequency_Response_Analysis_of_Electric_Machinery - mas, ainda acho que o tutorial xingling deve ser o caminho mais fácil
+‎[11.01.23 15:04:44] Robson Bauwelz Gonzatti: Vivado.zip ‎<anexado: 00000012-Vivado.zip>
+‎[11.01.23 15:04:44] Robson Bauwelz Gonzatti: CraftDrones.zip ‎<anexado: 00000013-CraftDrones.zip>
+‎[11.01.23 15:04:44] Robson Bauwelz Gonzatti: AX7010_English_UG.1.0.pdf • ‎30 páginas ‎<anexado: 00000014-AX7010_English_UG.1.0.pdf>
+‎[11.01.23 15:04:44] Robson Bauwelz Gonzatti: cource_s1_Basic Tutorial V1.12.pdf • ‎272 páginas ‎<anexado: 00000015-cource_s1_Basic Tutorial V1.12.pdf>
+[11.01.23 15:05:10] Robson Bauwelz Gonzatti: Mensagens e material que o Wilson enviou 👆🏻
+[11.01.23 18:41:30] Maria Clara: Ok!!
+[19.01.23 17:48:43] Robson Bauwelz Gonzatti: Boa tarde, conseguiu dar uma olhada nos materias? Parece que dá pra começar a fazer alguma coisa, alguma dúvida?
+[19.01.23 17:50:52] Maria Clara: Boa tarde, vi sim! Porém voltei pra minha cidade para retirar o ciso… Retorno no final de janeiro pro lab
+[19.01.23 17:58:02] Robson Bauwelz Gonzatti: Vish, tomara que tenha dado tudo certo aí. Sem problemas, era mais pra verificar se tinha alguma dúvida, etc. Eu achei a placa da FPGA aqui, ai quando você vier pra cá de novo, só me avisar se quiser pegar ela comigo.
+[30.01.23 21:51:16] Maria Clara: Boa noite professor. Deram certo as cirurgias. Vou pra Itajubá dia 4/2 e fico até as aulas começaram 🙏🏻 Te aviso
+[31.01.23 09:14:20] Robson Bauwelz Gonzatti: Bom dia. Que bom que deu tudo certo. Boa recuperação e descanso aí. Retornando pra Itajubá é só me avisar então.
+[11.02.23 12:44:39] Maria Clara: Bom dia professor! Segunda irei no lab, de manhã, pode ser?
+[11.02.23 12:46:33] Robson Bauwelz Gonzatti: Bom dia! Beleza. Talvez eu tenha uma reunião e não sei o horário direito. Mas qualquer coisa o Túlio está lá pra vc pegar a chave. Se a reunião não for de manhã. Dou uma passada lá umas 9 e pouco
+[11.02.23 12:47:08] Maria Clara: Ok, seria pra pegar o fpga
+[11.02.23 12:47:55] Robson Bauwelz Gonzatti: Ah, verdade. Já separei, mas está na sala 6. Eu vou tentar ir la pra te entregar. Se eu não conseguir, eu te aviso.
+[11.02.23 12:48:48] Maria Clara: Tranquilo
+[12.02.23 15:43:15] Maria Clara: Boa tarde professor! Vc sabe se vai ser possível eu receber bolsa da IC, se abrir o edital da não voluntária?
+[12.02.23 16:27:35] Robson Bauwelz Gonzatti: Boa tarde. Eu acredito que sim. Só não sei quando vai haver edital
+[13.02.23 09:25:36] Maria Clara: Olá professor, sabe algum horário disponivel hoje pra pegar o fpga? Estou livre
+[13.02.23 09:26:31] Maria Clara: Qualquer horário
+[13.02.23 09:26:59] Robson Bauwelz Gonzatti: Bom dia. Eu vou pra unifei umas 10:00. Pode ser?
+[21.02.23 18:08:26] Maria Clara: Boa tarde professor, desculpa incomodar no carnaval. Poderia levar o dsp e o fpga pra casa? Nesse período de férias
+[21.02.23 18:12:22] Robson Bauwelz Gonzatti: Boa tarde. Pode sim. Eu deixei um cabo USB que conecta na fpga la na sala 9 esses dias. Só pegar ele tb.
+[21.02.23 18:12:59] Maria Clara: Ah, ótimo, obrigada
+[21.02.23 18:13:17] Maria Clara: Outra dúvida, vai ter que fazer aquele relatório de 6 meses de IC?
+[21.02.23 18:13:56] Robson Bauwelz Gonzatti: Não lembro. Tem que ver no edital. Mas se não me engano é só um relatório final
+[21.02.23 18:14:44] Robson Bauwelz Gonzatti: Mas seria bom já ir anotando algumas coisas e preparando alguma documentação desde já. Porque no final fica mais tranquilo. As vezes não lembra direito de alguns detalhes depois.
+[21.02.23 18:14:54] Robson Bauwelz Gonzatti: E ganha tempo tb
+[21.02.23 18:15:32] Maria Clara: Entendi
+[21.02.23 18:15:53] Maria Clara: Bom, conforme eu fizer te mando para correção
+[21.02.23 18:15:58] Maria Clara: Obrigada
+[21.02.23 18:16:02] Robson Bauwelz Gonzatti: Beleza
+[23.02.23 10:51:54] Robson Bauwelz Gonzatti: Oi, você conseguiu pegar a placa lá no laboratório? Ou você pretende vir algum outro dia aqui pegar?
+[23.02.23 10:57:23] Maria Clara: Irei daqui a pouco
+[23.02.23 10:58:18] Robson Bauwelz Gonzatti: Beleza, eu estou na minha sala no bloco I. Se precisar que eu vá lá, só me avisar que eu dou um pulco
+[23.02.23 10:58:24] Robson Bauwelz Gonzatti: pulo lá*
+[23.02.23 10:58:34] Maria Clara: Combinado
+[23.02.23 11:40:46] Robson Bauwelz Gonzatti: eu vou precisar sair pra buscar almoço mais cedo hoje e à tarde eu tenho umas reuniões. Não sei se você já foi ao laboratório, Túlio está lá e pode abrir pra você. Aí é só pegar as coisas que você vai precisar levar (pode pegar fonte, etc. se precisar tb). Depois só me manda uma listinha do que você pegou.
+[23.02.23 11:47:02] Maria Clara: Ok!! Vou pegar a chave com o Tulio
+[23.02.23 13:14:28] Maria Clara: Olá professor, disseram que o Tulio está de férias
+[23.02.23 13:15:46] Maria Clara: Teria como vc passar no lab ainda hoje? Pode ser qualquer horário
+[23.02.23 13:19:04] Robson Bauwelz Gonzatti: Vish. Tem sim. Eu posso ir lá umas 16:00. OK?
+[23.02.23 13:19:26] Maria Clara: Ok combinado
+[23.02.23 16:45:04] Robson Bauwelz Gonzatti: O material do João Gabriel é o Firmware DSP V2.2 - Manual Completo.
+‎[28.06.23 13:45:36] Robson Bauwelz Gonzatti: placa_mae_v1.zip ‎<anexado: 00000056-placa_mae_v1.zip>
+‎[28.06.23 15:10:00] Robson Bauwelz Gonzatti: CraftDrones.zip ‎<anexado: 00000057-CraftDrones.zip>
+‎[28.06.23 16:19:25] Robson Bauwelz Gonzatti: ‎<anexado: 00000058-Gabriel Ps.vcf>
+[28.06.23 16:56:48] Maria Clara: Eu acho que para usar esse hardware manager vc precisa conectar o jtag.
+[28.06.23 16:56:48] Maria Clara: A outra maneira seria através de um Linux embarcado na placa do snickerdoodle.
+[28.06.23 18:04:48] Robson Bauwelz Gonzatti: Pode ser. O problema é que eu acho que os componentes pra acessar o jtag lá não estão soldados
+[28.06.23 18:05:07] Robson Bauwelz Gonzatti: Eu não sei como que o Wilson acessou isso no dele, mas pode ser que tenha sido assim
+[28.06.23 18:05:45] Robson Bauwelz Gonzatti: Essa opção eu acho que da mais trabalho…
+[29.06.23 10:09:43] Robson Bauwelz Gonzatti: Falei com o Wilson e ele fez pelo Linux embarcado na placa mesmo
+[29.06.23 10:10:26] Robson Bauwelz Gonzatti: Porque ele também não tinha acesso ao jtag, que é uma pinagem específica de programação, mas precisa de um adaptador lá
+[29.06.23 10:15:42] Robson Bauwelz Gonzatti: Talvez o Gabriel possa ajudar nisso
+[29.06.23 10:15:52] Robson Bauwelz Gonzatti: De rodar o Linux lá
+[04.07.23 10:24:19] Robson Bauwelz Gonzatti: Bom dia. Falei com o Gabriel e realmente o melhor jeito pra rodar o snickerdoodle seria transferindo o bitstream pelo linux embarcado nele. No entanto, como você está com tempo curto e ainda mais em época de prova, pensei em fazer o teste na DE-0-nano que nés temos, que roda no altera e é mais simples de testar. Só pra você "fechar o ciclo" e conseguir testar o PWM num hardware real. O que acha?
+[04.07.23 12:45:34] Maria Clara: Entendi professor, eu até ia tentar de novo. Essa maneira transferindo o bitstream pelo linux daria muito trabalho?
+[04.07.23 12:46:12] Maria Clara: Por mim pode ser sim, testando na DE-nano
+[04.07.23 12:46:37] Maria Clara: Precisaria usar a placa vermelha?
+[04.07.23 12:51:00] Robson Bauwelz Gonzatti: Então, o negócio só é que tem que instalar o Linux na plaquinha. Eu não sei se aquele cartão de memória que tem já está com o Linux ou se teria que gravar uma imagem nele e instalar. Ai depois eu não sei exatamente o procedimento, mas o Gabriel disse que o Wilson tinha enviado pra ele uma vez um e-mail explicando como faz
+[04.07.23 12:51:39] Robson Bauwelz Gonzatti: Tenho receio de perder muito tempo nesse processo. Talvez gravar na de nano seja mais direto
+[04.07.23 12:51:56] Robson Bauwelz Gonzatti: Não. Essa placa já tem saída que da pra usar direto
+[04.07.23 12:53:37] Robson Bauwelz Gonzatti: Você pode tentar dar uma olhada no site e ver se tem o procedimento pra instalar e acessar o Linux da placa. Ou então perguntar ao Gabriel pra tentar ter uma ideia do quão complicado é e do tempo que leva
+[04.07.23 13:05:02] Maria Clara: Entendi
+[04.07.23 13:05:42] Maria Clara: Eu prefiro ir direto para o DE-nano então
+[04.07.23 13:05:56] Maria Clara: Mas pelo menos ficou de aprendizado pra o outro pessoal que vier já saber disso
+[04.07.23 13:09:48] Maria Clara: Quinta feira eu terei duas provas 😅. Podemos marcar para quinta ou sexta o lab?
+[04.07.23 13:25:20] Robson Bauwelz Gonzatti: Beleza
+[04.07.23 13:25:32] Robson Bauwelz Gonzatti: Sim. Já fica mais fácil sabendo de onde partir
+[04.07.23 13:25:46] Robson Bauwelz Gonzatti: Pode ser na sexta então? Mas só posso a tarde
+[04.07.23 13:39:18] Maria Clara: Ok
+[04.07.23 13:39:26] Maria Clara: Pode sim
+[04.07.23 13:53:27] Robson Bauwelz Gonzatti: Beleza
+‎[04.07.23 15:35:56] Robson Bauwelz Gonzatti: ‎<anexado: 00000086-PHOTO-2023-07-04-15-35-56.jpg>
+[04.07.23 15:36:37] Maria Clara: Ok
+[07.07.23 08:36:15] Maria Clara: Bom dia Robson. Eu marquei uma conversa com o Max as 15h30 mas deve acabar rápido. Depois disso vou pro lab, vc ainda vai estar na unifei?
+[07.07.23 08:51:02] Robson Bauwelz Gonzatti: Bom dia. Sim, podemos marcar lá umas 16:00? Ai vou fazer umas outras coisas antes e vou pra lá esse horário.
+[07.07.23 08:51:42] Maria Clara: Pode sim
+[07.07.23 08:51:46] Maria Clara: Ok
+[07.07.23 08:54:01] Robson Bauwelz Gonzatti: Beleza, combinado
+[11.07.23 14:48:47] Maria Clara: Oi Robson, deu certo os testes de pwm no de-nano
+[11.07.23 14:49:25] Maria Clara: Eu fiz os roteiros do Wilson de pwm, bipolar, unipolar
+[11.07.23 14:49:32] Maria Clara: Tem mais alguma coisa pra testar?
+‎[11.07.23 14:49:39] Maria Clara: ‎<anexado: 00000096-PHOTO-2023-07-11-14-49-39.jpg>
+[11.07.23 14:50:34] Robson Bauwelz Gonzatti: Oi, bom que deu certo. Acho que foi a forma mais simples de testar mesmo
+[11.07.23 14:52:54] Robson Bauwelz Gonzatti: A princípio, testar direto não. Se der, seria legar gerar uma referência senoidal pra testar se sai o sinal correto na saída com um filtro RC. Outra coisa seria realmente estender esse PWM que o Wilson fez praquele caso do multinível. Mas acho que a gente precisa conversar um pouco pra acertar isso
+[11.07.23 14:54:22] Robson Bauwelz Gonzatti: Aí não sei se tem como você gerar uma referência arbitrária dentro da FPGA pra testar o PWM e não sei se esse módulo PWM que o Wilson fez permite fazer alteração na fase da onda triangular, para você poder fazer o multinível juntando vários módulos desse.
+[11.07.23 14:54:45] Robson Bauwelz Gonzatti: Tem algum roteiro dele sobre isso?
+[11.07.23 15:00:51] Maria Clara: Na verdade eu acho que esses roteiros dele fazem o multinivel
+[11.07.23 15:02:28] Maria Clara: Por exemplo, o último roteiro dele é sobre modulação PWM multiniveis por phase-shift. Para três pontes H em cascata essa modulação usa 7 níveis de tensão. Então ele usa três instâncias do bloco Unipolar em VHDL
+[11.07.23 15:02:35] Robson Bauwelz Gonzatti: ah então tá de boa, a ideia seria ir seguindo até o que der
+[11.07.23 15:02:39] Robson Bauwelz Gonzatti: é isso mesmo
+[11.07.23 15:02:57] Maria Clara: E depois ele só testa com a de-nano, que eh oq eu fiz
+[11.07.23 15:03:19] Robson Bauwelz Gonzatti: mas ele testa esse esquema completo?
+[11.07.23 15:03:39] Robson Bauwelz Gonzatti: você testou só um bloco do unipolar, correto?
+[11.07.23 15:04:54] Maria Clara: acredito que sim
+[11.07.23 15:05:05] Maria Clara: eh que ele foi fazendo blocos
+[11.07.23 15:06:08] Maria Clara: por exemplo, no unipolar ele usa blocos pwm, comp32bits, triangular
+[11.07.23 15:07:09] Maria Clara: na aplicação da de-nano do unipolar, uma chave controla o reset, uma a polaridade do pwm e as outras o duty cycle
+[11.07.23 15:07:22] Maria Clara: não sei se isso eh o completo kkk
+[11.07.23 15:07:29] Robson Bauwelz Gonzatti: Entendi. A ideia era essa mesmo, fazer os blocos base, e depois ir juntando pra fazer o sistema mais complexo
+[11.07.23 15:07:45] Robson Bauwelz Gonzatti: O completo seria com esses três blocos de PWM
+[11.07.23 15:08:26] Maria Clara: Isso
+[11.07.23 15:08:29] Maria Clara: Ele fez sim
+[11.07.23 15:08:47] Robson Bauwelz Gonzatti: Então pode ir seguindo os guias dele até esse último
+[11.07.23 15:09:02] Maria Clara: Então, já acabei hahah
+[11.07.23 15:09:06] Maria Clara: Ele deixou bem detalhado
+[11.07.23 15:09:21] Robson Bauwelz Gonzatti: entendi
+[11.07.23 15:09:39] Robson Bauwelz Gonzatti: é que tá só medindo 2 sinais de saída, aí não sabia que tinha todos lá
+[11.07.23 15:10:15] Maria Clara: Depois desses artigos ele tem sobre Utilização de core DDS para geração de referências senoidais
+[11.07.23 15:10:32] Robson Bauwelz Gonzatti: talvez só precise do osciloscópio com canal isolado pra poder medir todas as saídas juntas
+[11.07.23 15:10:55] Maria Clara: Gravação de projeto na memória flash e testes em bancada com conversores multiniveis a IGBTs
+[11.07.23 15:11:11] Robson Bauwelz Gonzatti: acho que ele usou isso pra poder fazer a referência senoidal na própria FPGA, sem precisar da comunicação com o DSP
+[11.07.23 15:11:37] Maria Clara: E exemplo de interface UART entre DSP e modulo GPS
+[11.07.23 15:11:46] Maria Clara: Dai acabam o artigos
+[11.07.23 15:12:08] Robson Bauwelz Gonzatti: então, eu acho que não vai dar pra testar na bancada com os conversores (por questão de tempo, porque tem plaquinhas aí pra testar). Mas você pode fazer até a parte da flash.
+[11.07.23 15:13:44] Maria Clara: Esse roteiro da memória flash ele testou na bancada
+[11.07.23 15:13:54] Robson Bauwelz Gonzatti: Se você conseguir fazer o restante rápido e quiser testar na plaquinha a gente consegue fazer isso bem rápido aí também. Aí fecha tudo
+[11.07.23 15:13:59] Maria Clara: Ja esse só simulou
+[11.07.23 15:15:26] Robson Bauwelz Gonzatti: mas ele usa isso nos testes em bancada também, acho
+[11.07.23 15:15:58] Robson Bauwelz Gonzatti: é que a flash é pra ele ficar gravado o código. Aí quando ligar ele já carregar e rodar sem precisar ligar no PC
+[11.07.23 15:16:27] Robson Bauwelz Gonzatti: então faz mais sentido fazer na bancada, não é necessário só pra rodar como você tá fazendo
+[11.07.23 15:16:42] Robson Bauwelz Gonzatti: mas é um negócio importante pra aplicação de verdade
+[11.07.23 15:18:53] Maria Clara: Deve usar, porque ele segue uma sequência nos artigos
+[11.07.23 15:19:11] Maria Clara: Isso
+[11.07.23 15:21:42] Maria Clara: Ok, então posso fazer esses dois roteiros até onde for possível? Por questões de tempo
+[11.07.23 15:21:53] Robson Bauwelz Gonzatti: sim
+[11.07.23 15:23:00] Robson Bauwelz Gonzatti: porque aí vai chegar num ponto legal e ao menos você vai ter visto o negócio quase todo
+[11.07.23 15:23:11] Robson Bauwelz Gonzatti: mesmo que reproduzindo o que o Wilson fez
+[11.07.23 15:24:04] Maria Clara: exato, eu consegui medir só uma saída no osciloscópio
+[11.07.23 15:25:27] Robson Bauwelz Gonzatti: vamos tentar marcar um dia mais pro fim dessa semana, ou início da próxima, pra eu ir ai com você e a gente usar o osciloscópio de 4 canais. Aí da pra medir mais saídas e fica colorido, que fica melhor pra salvar pro seu relatório
+[11.07.23 15:25:57] Maria Clara: ok
+[11.07.23 15:26:21] Maria Clara: eu tenho prova sexta feira
+[11.07.23 15:26:33] Maria Clara: Pode ser semana que vem, já estarei de férias
+[11.07.23 15:27:05] Robson Bauwelz Gonzatti: ótimo, semana que vem é bem melhor pra mim também. Pode ser na segunda à tarde?
+[11.07.23 15:27:18] Robson Bauwelz Gonzatti: ou de manhã
+[11.07.23 15:27:31] Maria Clara: Pode sim
+[11.07.23 15:27:35] Maria Clara: Qual horário?
+[11.07.23 15:28:15] Robson Bauwelz Gonzatti: segunda 9:00, OK?
+[11.07.23 15:28:26] Maria Clara: Ok, combinado
+[11.07.23 15:28:29] Robson Bauwelz Gonzatti: beleza
+[14.07.23 11:13:21] Maria Clara: Bom dia Robson
+[14.07.23 11:13:32] Maria Clara: Pode liberar o lab pra usar sábado?
+[14.07.23 11:15:42] Robson Bauwelz Gonzatti: Bom dia, posso sim. Já vou enviar o email.
+[14.07.23 11:21:24] Maria Clara: Ok, obrigada
+[14.07.23 11:21:37] Robson Bauwelz Gonzatti: Por nada
+‎[17.07.23 17:53:00] Maria Clara: ‎<anexado: 00000159-PHOTO-2023-07-17-17-53-00.jpg>
+‎[17.07.23 17:53:01] Maria Clara: ‎<anexado: 00000160-PHOTO-2023-07-17-17-53-01.jpg>
+[17.07.23 17:53:08] Maria Clara: Parece que deu certo
+[17.07.23 17:53:23] Maria Clara: Fiz até a gravação na ram
+[17.07.23 17:53:39] Maria Clara: Os outros testes também deram certo nesse osciloscópio
+[17.07.23 17:55:43] Maria Clara: Amanhã podemos ver a parte da flash, que tal?
+[17.07.23 17:57:53] Robson Bauwelz Gonzatti: Parece que sim. Descobriu o que era?
+[17.07.23 17:58:32] Maria Clara: Não sei, eu refiz do zero o projeto
+[17.07.23 17:58:38] Robson Bauwelz Gonzatti: Pode ser, pra você é melhor de manhã ou à tarde? Eu só tenho um compromisso à tarde 15:00
+[17.07.23 17:58:40] Maria Clara: A simulação que ainda não consegui ver a senoide
+[17.07.23 17:59:00] Robson Bauwelz Gonzatti: ia perguntar isso haha
+[17.07.23 17:59:02] Robson Bauwelz Gonzatti: beleza
+[17.07.23 17:59:13] Maria Clara: Pode ser de manhã
+[17.07.23 17:59:31] Robson Bauwelz Gonzatti: OK, 9:00 igual hoje?
+[17.07.23 18:01:43] Maria Clara: Okk
+[17.07.23 18:01:56] Robson Bauwelz Gonzatti: Beleza. Até amanhã então
